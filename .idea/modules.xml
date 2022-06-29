@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/da.iml" filepath="$PROJECT_DIR$/da.iml" />
+      <module fileurl="file://$PROJECT_DIR$/da-api/da-api.iml" filepath="$PROJECT_DIR$/da-api/da-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/da-app/da-app.iml" filepath="$PROJECT_DIR$/da-app/da-app.iml" />
+    </modules>
+  </component>
+</project>
